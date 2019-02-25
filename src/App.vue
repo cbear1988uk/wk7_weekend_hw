@@ -56,6 +56,11 @@ export default {
   color: red;
   background-color: black;
   background-size: auto;
+
+}
+
+body {
+  margin: 0;
 }
 
 p {
